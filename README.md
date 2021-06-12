@@ -12,4 +12,10 @@ These folder contains EEG data analysis using only 4 electrodes
 ## Open BCI 
 This folder contains EEG data analysis from Cogwear headset for 6 subjects. 
 
-Analysis file is a .numbers file and will not open in Windows (kept here for backup).
+## Compare timings
+This file maps EMOTIV file names to Open BCI file names. 
+
+## Analysis.numbers
+Analysis file is a .numbers file and will not open in Windows (kept here for backup). 
+This file contains analysis data for all 6 subjects from both the headsets.
+
