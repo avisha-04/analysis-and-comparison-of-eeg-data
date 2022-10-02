@@ -1,25 +1,6 @@
-# Penalty_kick_EEG
+# EMOTIV vs Cogwear EEG data comparison for Penalty Shot Game
+This was a undergraduate project in which I learned about EEG data preprocessing and analysis. In addition, I performed an exploratory analysis comparing the performance of two EEG devices (EMOTIV and Cogwear) by analysing EEG recordings from six participants while playing the penalty shot game.
 
-## EMOTIV 
-This folder contains EEG data analysis from EMOTIV headset for 6 subjects. 
-Each subject folder has two folders named 32 and 4. 
-
-### 32
-These folder contains EEG data analysis using all 32 electrodes
-### 4
-These folder contains EEG data analysis using only 4 electrodes
-
-## Open BCI 
-This folder contains EEG data analysis from Cogwear headset for 6 subjects. 
-
-## Visualisation
-This folder contains data visualisation files and graphs. 
-
-## Compare timings
-This file maps EMOTIV file names to Open BCI file names. 
-
-## Analysis.numbers
-Analysis file is a .numbers file and will not open in Windows (kept here for backup). 
-This file contains analysis data for all 6 subjects from both the headsets.
+Here I have uploaded visualisation and analysis files of an example participant's EEG data from both devices. 
 
 
